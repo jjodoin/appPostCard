@@ -12,6 +12,9 @@
 		0C47628519C419BB00BA9B96 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C47628319C419BB00BA9B96 /* Main.storyboard */; };
 		0C47628719C419BB00BA9B96 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C47628619C419BB00BA9B96 /* Images.xcassets */; };
 		0C47629319C419BC00BA9B96 /* PostCardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C47629219C419BC00BA9B96 /* PostCardTests.swift */; };
+		0C47629D19C4241B00BA9B96 /* 4cTYt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0C47629C19C4241B00BA9B96 /* 4cTYt.jpg */; };
+		0C47629F19C429E800BA9B96 /* 700.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0C47629E19C429E800BA9B96 /* 700.jpg */; };
+		0C4762A119C430AF00BA9B96 /* ARwtY.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0C4762A019C430AF00BA9B96 /* ARwtY.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +37,9 @@
 		0C47628C19C419BC00BA9B96 /* PostCardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostCardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C47629119C419BC00BA9B96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0C47629219C419BC00BA9B96 /* PostCardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCardTests.swift; sourceTree = "<group>"; };
+		0C47629C19C4241B00BA9B96 /* 4cTYt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4cTYt.jpg; sourceTree = "<group>"; };
+		0C47629E19C429E800BA9B96 /* 700.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 700.jpg; sourceTree = "<group>"; };
+		0C4762A019C430AF00BA9B96 /* ARwtY.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ARwtY.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +93,9 @@
 		0C47627D19C419BB00BA9B96 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0C4762A019C430AF00BA9B96 /* ARwtY.jpg */,
+				0C47629E19C429E800BA9B96 /* 700.jpg */,
+				0C47629C19C4241B00BA9B96 /* 4cTYt.jpg */,
 				0C47627E19C419BB00BA9B96 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -190,6 +199,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				0C47628519C419BB00BA9B96 /* Main.storyboard in Resources */,
+				0C4762A119C430AF00BA9B96 /* ARwtY.jpg in Resources */,
+				0C47629F19C429E800BA9B96 /* 700.jpg in Resources */,
+				0C47629D19C4241B00BA9B96 /* 4cTYt.jpg in Resources */,
 				0C47628719C419BB00BA9B96 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
